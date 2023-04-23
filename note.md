@@ -20,3 +20,4 @@ remote : dữ liệu trên 1 server nào đó
 - git branch -d {branch name}
 - git push : đẩy lên 
 - git remote add {name  // thường đặt là origin} {link project on github} : khi push những thay đổi lên thì ko cần gắn link github mà sẽ thay bằng tên mình đặt
+- git push -u origin {branch name} : đẩy branch mới lên github
