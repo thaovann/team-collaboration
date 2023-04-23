@@ -4,3 +4,9 @@
 - git add . : chuẩn bị lưu lại toàn bộ file
 - git reset : 
 - git commit -m 'note_you_shoud_lwwrite': chính thức lưu
+- git log     : xem những thời điểm đã lưu
+- git log --oneline
+- git checkout 'idcommit' : trở về trước khi có commit có id đó
+- git checkout {branch name}
+- git branch
+- git checkout -b {branch name}: tạo branch mới
