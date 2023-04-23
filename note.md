@@ -8,7 +8,7 @@
 - git log --oneline
 - git checkout 'idcommit' : trở về trước khi có commit có id đó
 - git checkout {branch name} : di chuyển đến branch khác/ kiểm tra branch hiện tại
-- git branch
+- git branch : xuất ra danh sách branch
 - git checkout -b {branch name}: tạo branch mới
-- git merge {branch name} : 
+- git merge {branch name} : tổng hợp lại branch vs branch main
 - git branch -d {branch name}
