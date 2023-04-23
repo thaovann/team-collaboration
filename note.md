@@ -2,7 +2,8 @@
 Resository
 Branch
 Conflict // xung đột
-
+local : tất cả những gì trên máy tính
+remote : dữ liệu trên 1 server nào đó
 # Commnand
 - git status: cho biet trang thai cua du an
 - git add ten_file: lưu lại file
@@ -17,3 +18,4 @@ Conflict // xung đột
 - git checkout -b {branch name}: tạo branch mới
 - git merge {branch name} : tổng hợp lại branch vs branch main
 - git branch -d {branch name}
+- git push : đẩy lên 
