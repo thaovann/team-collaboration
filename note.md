@@ -7,6 +7,8 @@
 - git log     : xem những thời điểm đã lưu
 - git log --oneline
 - git checkout 'idcommit' : trở về trước khi có commit có id đó
-- git checkout {branch name}
+- git checkout {branch name} : di chuyển đến branch khác/ kiểm tra branch hiện tại
 - git branch
 - git checkout -b {branch name}: tạo branch mới
+- git merge {branch name} : 
+- git branch -d {branch name}
